@@ -1,0 +1,4 @@
+
+pink - #ffa7a7
+blue - #0000ff
+green - #80ff80
